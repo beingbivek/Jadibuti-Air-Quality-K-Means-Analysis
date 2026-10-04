@@ -1,0 +1,2 @@
+scaler,k,silhouette,davies_bouldin,calinski_harabasz,inertia,observations,features
+RobustScaler,2,0.30499143595239353,1.3076502462443829,422.2575574181094,3171.6006863600987,1000,10

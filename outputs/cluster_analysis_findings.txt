@@ -1,0 +1,6 @@
+- Selected RobustScaler with k=2, chosen by the highest silhouette among 18 tested scaler/k combinations.
+- Final silhouette=0.305; Davies-Bouldin=1.308; Calinski-Harabasz=422.3.
+- Cluster sizes range from 356 to 644 hourly observations.
+- The largest range between cluster-average pollutant levels is for um003: 2439.35 particles/cm³.
+- Cluster 0: strongest pollutant contrast is relativehumidity (32.96 in source units, 1.07 SD below the overall mean).
+- Cluster 1: strongest pollutant contrast is relativehumidity (45.36 in source units, 0.59 SD above the overall mean).
